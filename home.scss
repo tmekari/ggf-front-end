@@ -1,0 +1,26 @@
+page-home 
+{
+
+.bg-image
+	{
+		background-image: url('https://i.imgur.com/5O8YJHa.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+
+	}
+	
+
+	.wrapper 
+	{
+    text-align: center;
+	}
+
+	.button 
+	{
+    position: absolute;
+    left:180px;
+    bottom: 52%;
+	}
+
+}
